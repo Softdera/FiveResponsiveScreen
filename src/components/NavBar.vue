@@ -98,7 +98,9 @@
 
                     </a></li>  
       </ul>
-        
+    </div>
+  </div>
+               
 <i class="fa-regular fa-bell mobileBell"></i>
 <span class="status-dot"></span>
 
@@ -107,8 +109,6 @@
 <span class="status-dott"></span>
  <i class="fa-solid fa-angle-down MobileAngle"></i>
 
-    </div>
-  </div>
 </nav>
 
 
