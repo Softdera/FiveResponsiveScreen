@@ -321,6 +321,8 @@ li a {
 
 .MobileNav{
     width: 200px;
+    position: relative;
+    left: 300px;
 }
 
 
