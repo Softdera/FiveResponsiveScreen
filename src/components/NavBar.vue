@@ -137,8 +137,6 @@ nav{
     border: grey;
   }
 
-
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -360,7 +358,7 @@ nav{
 
 
 .userMobile{
-    left: 466px;
+    left: 426px;
     z-index: 2;
     height: 25px;
     position: absolute;
@@ -374,7 +372,7 @@ nav{
 .mobileBell{
     font-size: 30px;
     position: absolute;
-    left: 410px;
+    left: 370px;
     opacity: 1;
     top: 31px;
     display:contents;
