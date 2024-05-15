@@ -328,7 +328,7 @@ li a {
 nav{
     box-shadow: none;
     border-bottom: 0.5px solid black;
-    width: 100%;
+    width: 599px;
     height: 83px;
     padding: 32px 24px 15px 24px;
     gap: 10px;
