@@ -100,7 +100,8 @@
       </ul>
     </div>
   </div>
-               
+        
+<div class="MobileNav">               
 <i class="fa-regular fa-bell mobileBell"></i>
 <span class="status-dot"></span>
 
@@ -108,7 +109,7 @@
 <i class="fa-solid fa-user"></i>
 <span class="status-dott"></span>
  <i class="fa-solid fa-angle-down MobileAngle"></i>
-
+</div>
 </nav>
 
 
@@ -317,6 +318,10 @@ li a {
 
 
 @media screen and (max-width: 600px) {
+
+.MobileNav{
+    width: 200px;
+}
 
 
 nav{
