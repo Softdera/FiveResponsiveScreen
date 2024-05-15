@@ -371,30 +371,33 @@ nav{
 }
 .mobileBell{
     font-size: 25px;
-    position: absolute;
+    position: relative;
     right: 270px;
     opacity: 1;
-    top: 27.14px;
+    bottom: 27.14px;
     display:contents;
+    z-index: 3;
 }
 
 
 .fa-user{
     font-size: 25px;
-    position: absolute;
+    position: relative;
     right: 300px;
     opacity: 1;
-    top: 27.14px;
+    bottom: 27.14px;
     display:contents;
+    z-index: 3;
 }
 
 
 .MobileAngle{
-    position: absolute;
+        z-index: 3;
+    position: relative;
     opacity: 1;
     font-size: 10px;
     right: 335px;
-    top: 27.14px;
+    bottom: 27.14px;
     display: contents;
 
 
