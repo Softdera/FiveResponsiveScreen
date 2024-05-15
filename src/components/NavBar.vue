@@ -387,8 +387,8 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 50px;
-  bottom: 1px;
+  left: 38px;
+  top: 1px;
 
 }
 
