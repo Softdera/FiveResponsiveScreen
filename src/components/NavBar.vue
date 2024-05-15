@@ -369,7 +369,7 @@ nav{
     display:contents;
     z-index: 3;
 
-    position: relative;
+    position: absolute;
     font-size: 23px;
     bottom: 27.14px;
     right: 400px;
@@ -379,7 +379,7 @@ nav{
 
 .fa-user{
     font-size: 25px;
-    position: relative;
+    position: absolute;
     right: 400px;
     opacity: 1;
     bottom: 27.14px;
@@ -390,7 +390,7 @@ nav{
 
 .MobileAngle{
         z-index: 3;
-    position: relative;
+    position: absolute;
     opacity: 1;
     font-size: 10px;
     right: 305px;
