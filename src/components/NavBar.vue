@@ -388,7 +388,7 @@ nav{
   margin-right: 5px;
   position: absolute;
   left: 38px;
-  top: 1px;
+  bottom: 1px;
 
 }
 
