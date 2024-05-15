@@ -372,24 +372,20 @@ nav{
 .mobileBell{
     font-size: 25px;
     position: absolute;
-    left: 270px;
+    right: 270px;
     opacity: 1;
     top: 27.14px;
     display:contents;
-
-
-
 }
 
 
 .fa-user{
     font-size: 25px;
     position: absolute;
-    left: 300px;
+    right: 300px;
     opacity: 1;
     top: 27.14px;
     display:contents;
-
 }
 
 
@@ -397,7 +393,7 @@ nav{
     position: absolute;
     opacity: 1;
     font-size: 10px;
-    left: 335px;
+    right: 335px;
     top: 27.14px;
     display: contents;
 
