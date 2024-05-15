@@ -291,9 +291,6 @@ li a {
     width: 53px;
     height: 31.72px;
     position: absolute;
-   
-
-
 }
 
 
@@ -363,9 +360,8 @@ nav{
     margin-right: 30px;
     opacity: 1;
     display:contents;
-
-
 }
+    
 .mobileBell{
     font-size: 25px;
     
@@ -373,17 +369,18 @@ nav{
     display:contents;
     z-index: 3;
 
-    position: absolute;
+    position: relative;
     font-size: 23px;
-    top: 135px;
-    left:452px;
+    bottom: 27.14px;
+    right: 400px;
+
 }
 
 
 .fa-user{
     font-size: 25px;
     position: relative;
-    right: 300px;
+    right: 400px;
     opacity: 1;
     bottom: 27.14px;
     display:contents;
@@ -396,7 +393,7 @@ nav{
     position: relative;
     opacity: 1;
     font-size: 10px;
-    right: 335px;
+    right: 305px;
     bottom: 27.14px;
     display: contents;
 
