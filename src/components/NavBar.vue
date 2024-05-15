@@ -213,7 +213,6 @@ li a {
     left: 50px;
     width: 44px;
     font-size: 14px;
-
 }
 
 
@@ -388,8 +387,8 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 3px;
-  bottom: 6px;
+  left: 20px;
+  bottom: 4px;
 
 }
 
