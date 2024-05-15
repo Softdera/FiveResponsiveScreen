@@ -253,7 +253,7 @@ li a {
     position: absolute;
     top: 45.05px;
     left: 1113px;
-    border: 1.5px 0px 0px 0px;
+    border: 1.5px;
 }
 
 .fa-envelope{
@@ -328,7 +328,7 @@ li a {
 nav{
     box-shadow: none;
     border-bottom: 0.5px solid black;
-    width: 599px;
+    width: 100%;
     height: 83px;
     padding: 32px 24px 15px 24px;
     gap: 10px;
@@ -370,11 +370,11 @@ nav{
 
 }
 .mobileBell{
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
-    left: 370px;
+    left: 270px;
     opacity: 1;
-    top: 31px;
+    top: 27.14px;
     display:contents;
 
 
@@ -383,23 +383,22 @@ nav{
 
 
 .fa-user{
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
-    left: 460px;
+    left: 300px;
     opacity: 1;
-    top: 30px;
+    top: 27.14px;
     display:contents;
 
 }
 
 
 .MobileAngle{
-    font-size: 40px;
     position: absolute;
     opacity: 1;
     font-size: 10px;
-    left: 485px;
-    top: 40px;
+    left: 335px;
+    top: 27.14px;
     display: contents;
 
 
@@ -412,7 +411,7 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 428px;
+  left: 300px;
   top: 36px;
 
 }
@@ -425,7 +424,7 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 483px;
+  left: 360px;
   top: 54px;
 
 }
