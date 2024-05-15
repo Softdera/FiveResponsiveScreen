@@ -376,7 +376,7 @@ nav{
     right: 305px;
     bottom: 22.14px;
     display: contents;
-    font-size: 18px;
+    font-size: 15px;
 
 
 }
