@@ -390,6 +390,8 @@ nav{
     left: 460px;
     opacity: 1;
     top: 30px;
+    display:contents;
+
 }
 
 
