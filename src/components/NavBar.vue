@@ -367,6 +367,7 @@ nav{
     font-size: 10px;
     margin-right: 30px;
     opacity: 1;
+    display:contents;
 
 
 }
@@ -376,6 +377,8 @@ nav{
     left: 410px;
     opacity: 1;
     top: 31px;
+    display:contents;
+
 
 
 }
@@ -397,6 +400,7 @@ nav{
     font-size: 10px;
     left: 485px;
     top: 40px;
+    display: contents;
 
 
 }
