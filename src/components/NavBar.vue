@@ -1,34 +1,6 @@
 <template>
 
-    <!--nav>
-    <ul>
-        <li><a href="#" class="prolife">
-            <i class="fa-solid fa-layer-group" style="color: #63E6BE;"></i>
-            PROLIFERATE</a></li>
-        <li>
-        <input type="text"
-        class="searchQuery"
-        v-model="searchQuery"
-        placeholder="Search">
-        <i class="fa-solid fa-magnifying-glass"></i>
-
-    </li>
-      <li><a href="#"> 
-        <i class="fa-solid fa-ticket"></i>
-        <i class="fa-regular fa-envelope"></i>
-        <i class="fa-regular fa-bell"></i>
-        <i class="fa-regular fa-comment"></i>
-        <i class="fa-solid fa-gear"></i>
-    </a></li>
-        <li class="userList"><a href="#"> <img src='https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745'
-                        alt='user_image'
-                        class='user' />
-                        <i class="fa-solid fa-angle-down"></i>
-
-                    </a></li>
-    </ul>
-    </nav-->
-
+    
     <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
     <a class="navbar-brand  " href="#"> </a>
@@ -416,8 +388,8 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 30px;
-  top: 36px;
+  left: 3px;
+  bottom: 6px;
 
 }
 
@@ -429,8 +401,8 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 60px;
-  top: 54px;
+  left: 10px;
+  top: 5px;
 
 }
 
