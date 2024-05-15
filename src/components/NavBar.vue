@@ -322,7 +322,9 @@ li a {
 .MobileNav{
     width: 200px;
     position: relative;
-    left: 300px;
+    left: 330px;
+    margin-right: 10px;
+    gap: 5px;
 }
 
 
@@ -414,7 +416,7 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 300px;
+  left: 30px;
   top: 36px;
 
 }
@@ -427,7 +429,7 @@ nav{
   border-radius: 50%;
   margin-right: 5px;
   position: absolute;
-  left: 360px;
+  left: 60px;
   top: 54px;
 
 }
