@@ -371,12 +371,15 @@ nav{
 }
 .mobileBell{
     font-size: 25px;
-    position: relative;
-    right: 270px;
+    
     opacity: 1;
-    bottom: 27.14px;
     display:contents;
     z-index: 3;
+
+    position: absolute;
+    font-size: 23px;
+    top: 135px;
+    left:452px;
 }
 
 
