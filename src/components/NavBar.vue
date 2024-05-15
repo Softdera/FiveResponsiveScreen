@@ -374,7 +374,7 @@ nav{
     opacity: 1;
     font-size: 10px;
     right: 305px;
-    bottom: 27.14px;
+    bottom: 22.14px;
     display: contents;
 
 
