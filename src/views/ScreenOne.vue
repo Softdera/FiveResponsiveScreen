@@ -943,7 +943,7 @@ td{
     .whiteSideContainer{
                 width: 75%;
             position: relative;
-                left: 150px;
+                left: 250px;
     }
 
     .DashboardText{
