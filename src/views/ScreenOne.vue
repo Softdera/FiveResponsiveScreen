@@ -935,7 +935,7 @@ td{
 
     .whiteSide{
         position: relative;
-        bottom: 150px;
+        bottom: 180px;
         width: 75%;
     }
 
@@ -943,6 +943,7 @@ td{
                 width: 75%;
             position: relative;
                 left: 5px;
+            bottom: 30px;
     }
 
     .DashboardText{
