@@ -1145,9 +1145,9 @@ border-radius: 16px;
 }
 .ColorAssignmentH5{
     background-color: whitesmoke;
-    width: 380px;
+    width: 370px;
     position: relative;
-    right: 10px;
+    right: 30px;
     bottom: 25px;
     height:60px;
 }
@@ -1237,8 +1237,8 @@ left: 18px;
 
 .colMonth{
     font-family: Inter;
-    line-height: 10px;
-    font-size: 11.5px;
+    line-height: 15px;
+    font-size: 10px;
     text-align: left;
     margin-bottom: 12px;
 
