@@ -974,7 +974,7 @@ td{
 
 .Upcoming{
     font-family: Inter;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     text-align: left;
     color: #242F48;
@@ -986,7 +986,7 @@ td{
 
   .seeAllI{
     font-family: Open Sans;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
@@ -1048,11 +1048,11 @@ td{
 }
 
 .AssignContainer{
-    width: 420px;
+    width: 450px;
     height:  340.53px;
     position: absolute;
     top: 580px;
-    left: 25px;
+    left: 65px;
     padding: 24px 37px 24px 16px;
     gap: 18px;
     border-radius: 5px;
@@ -1092,7 +1092,7 @@ border: 0.5px;
 
 .seeAllII{
     font-family: Open Sans;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
@@ -1120,8 +1120,8 @@ border: 0.5px;
     position: relative;
     width: 180.42px;
     height: 190.37px;
-bottom: 135.52px;
-left: 154.57px;
+bottom: 145.52px;
+left: 134.57px;
 border-radius: 16px;
 
 }
@@ -1140,7 +1140,7 @@ border-radius: 16px;
     width: 180.42px;
     height: 190.37px;
 left: 134.57px;
-bottom: 335.52px;
+bottom: 330.52px;
 border-radius: 16px;
 }
 .ColorAssignmentH5{
@@ -1237,7 +1237,7 @@ left: 18px;
 
 .colMonth{
     font-family: Inter;
-    line-height: 15px;
+    line-height: 14px;
     font-size: 11.5px;
     text-align: left;
     margin-bottom: 12px;
@@ -1246,7 +1246,7 @@ left: 18px;
 
 .tableTwoMonth{
     font-family: Inter;
-font-size: 12px;
+font-size: 10px;
 font-weight: 600;
 line-height: 15px;
 text-align: left;
