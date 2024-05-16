@@ -938,11 +938,11 @@ td{
         position: relative;
         right: 230px;
         bottom: 180px;
-        width: 90%;
+        width: 85%;
     }
 
     .whiteSideContainer{
-                width: 90%;
+                width: 85%;
 
     }
 
@@ -966,7 +966,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 145px;
-    left:433px;
+    left:423px;
   }
 
   .line{
@@ -980,7 +980,7 @@ td{
     text-align: left;
     color: #242F48;
     position: absolute;
-    right: 345px;
+    right: 300px;
     top: 1px;
     z-index: 4;
   }
