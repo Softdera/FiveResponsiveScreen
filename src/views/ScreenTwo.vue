@@ -429,7 +429,7 @@ td{
 
   .Upcoming{
     position: absolute;
-    top: 38px;
+    top: 28px;
     left: 92px;
     font-family: Montserrat;
     font-size: 20px;
