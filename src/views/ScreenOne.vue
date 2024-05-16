@@ -942,7 +942,7 @@ td{
     .whiteSideContainer{
                 width: 75%;
             position: relative;
-                left: 10px;
+                left: 5px;
     }
 
     .DashboardText{
@@ -954,7 +954,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 135px;
-    left: 150px;
+    left: 50px;
      }
 
      .OvertimeText{
@@ -965,7 +965,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 142px;
-    left:425px;
+    left:325px;
   }
 
   .line{
@@ -1220,7 +1220,7 @@ left: 18px;
 }
 
 .tableTwoContainer{
-    width: 390px;
+    width: 365px;
     height:  325px;
     right: 18px;
     padding: 24px 16px 24px 16px;
