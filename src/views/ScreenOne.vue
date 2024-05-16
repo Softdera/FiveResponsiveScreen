@@ -938,11 +938,11 @@ td{
         position: relative;
         right: 230px;
         bottom: 180px;
-        width: 85%;
+        width: 75%;
     }
 
     .whiteSideContainer{
-                width: 85%;
+                width: 75%;
 
     }
 
@@ -966,7 +966,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 145px;
-    left:423px;
+    left:425px;
   }
 
   .line{
@@ -980,7 +980,7 @@ td{
     text-align: left;
     color: #242F48;
     position: absolute;
-    right: 300px;
+    right: 270px;
     top: 1px;
     z-index: 4;
   }
@@ -1007,7 +1007,7 @@ td{
 .horizontal-table {
     display: flex;
     flex-direction: column;
-    width:  430px;
+    width:  300px;
     height: 167px;
     text-align: left;
     background-color: #FFFFFF;
@@ -1049,7 +1049,7 @@ td{
 }
 
 .AssignContainer{
-    width: 430px;
+    width: 300px;
     height:  340.53px;
     position: absolute;
     top: 580px;
@@ -1063,7 +1063,7 @@ td{
 }
 
 .TutorContainer{
-    width: 400.52px;
+    width: 400px.52px;
 height: 405px;
 top: 950px;
 left: 24px;
@@ -1071,7 +1071,7 @@ position: absolute;
 }
 
 .AttendanceContainer{
-    width: 382px;
+    width: 300px;
 height:  259px;
 position: absolute;
 top: 1371px;
@@ -1101,7 +1101,7 @@ border: 0.5px;
     margin-left: 5px;
     padding-top: 15px;
     position: relative;
-    width: 200.42px;
+    width: 180.42px;
     height: 180.37px;
     top: 44.52px;
     right: 50px;
@@ -1110,7 +1110,7 @@ border: 0.5px;
 
 .orangeContainer{
     position: relative;
-    width: 200.42px;
+    width: 180.42px;
     height: 180.37px;
 bottom: 135.52px;
 left: 184.57px;
@@ -1214,7 +1214,7 @@ left: 18px;
 }
 
 .tableTwoContainer{
-    width: 470px;
+    width: 300px;
     height:  259px;
     right: 18px;
     padding: 24px 16px 24px 16px;
