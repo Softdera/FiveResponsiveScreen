@@ -942,7 +942,7 @@ td{
     .whiteSideContainer{
                 width: 75%;
             position: relative;
-                left: 110px;
+                left: 10px;
     }
 
     .DashboardText{
@@ -1074,7 +1074,7 @@ position: absolute;
 
 .AttendanceContainer{
     width: 380px;
-height:  299px;
+height:  269px;
 position: absolute;
 top: 1371px;
 left: 24px;
