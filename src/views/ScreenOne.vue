@@ -942,6 +942,8 @@ td{
 
     .whiteSideContainer{
                 width: 75%;
+            justify-content: center;
+            text-align: center;
 
     }
 
@@ -1044,7 +1046,6 @@ td{
     font-size: 12px;
     color: #186BAD;
     right: 20px;
-
 }
 
 .AssignContainer{
@@ -1058,7 +1059,6 @@ td{
     border-radius: 5px;
     border: 0.5px;
     background: #FFFFFF;
-
 }
 
 .carryFlexAssignContainer{
