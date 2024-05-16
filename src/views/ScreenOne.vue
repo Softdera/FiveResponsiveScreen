@@ -1048,11 +1048,11 @@ td{
 }
 
 .AssignContainer{
-    width: 380px;
+    width: 420px;
     height:  340.53px;
     position: absolute;
     top: 580px;
-    left: 15px;
+    left: 25px;
     padding: 24px 37px 24px 16px;
     gap: 18px;
     border-radius: 5px;
@@ -1130,7 +1130,7 @@ border-radius: 16px;
     position: relative;
     width: 180.42px;
     height: 190.37px;
-bottom: 115.63px;
+bottom: 140.63px;
 right: 58px;
 border-radius: 16px;
 }
@@ -1139,8 +1139,8 @@ border-radius: 16px;
     position: relative;
     width: 180.42px;
     height: 190.37px;
-left: 184.57px;
-bottom: 295.52px;
+left: 134.57px;
+bottom: 335.52px;
 border-radius: 16px;
 }
 .ColorAssignmentH5{
@@ -1166,7 +1166,7 @@ left: 18px;
 
 .seeAllIII{
     background-color: whitesmoke;
-    font-size: 14px;
+    font-size: 12px;
     position: absolute;
     left: 300px;
 }
@@ -1194,7 +1194,7 @@ left: 18px;
 
 .TutorPerformance{
     font-family: Inter;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
     line-height: 15px;
     text-align: left;
@@ -1205,7 +1205,7 @@ left: 18px;
 }
 
 .seeAllIV{
-    font-size: 14px;
+    font-size: 12px;
     background-color: whitesmoke;
     position: relative;
     left: 260px;
@@ -1222,8 +1222,8 @@ left: 18px;
 }
 
 .tableTwoContainer{
-    width: 380px;
-    height:  319px;
+    width: 390px;
+    height:  325px;
     right: 18px;
     padding: 24px 16px 24px 16px;
     gap: 18px;
