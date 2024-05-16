@@ -918,7 +918,6 @@ td{
     opacity: 0;
     position: absolute;
     bottom: 600px;
-
 }
    
 
@@ -965,7 +964,7 @@ td{
     font-weight: 400;
     line-height: 19.5px;
     text-align: left;
-    top: 145px;
+    top: 148px;
     left:425px;
   }
 
@@ -980,7 +979,7 @@ td{
     text-align: left;
     color: #242F48;
     position: absolute;
-    right: 200px;
+    right: 180px;
     top: 1px;
     z-index: 4;
   }
@@ -1072,7 +1071,7 @@ position: absolute;
 
 .AttendanceContainer{
     width: 380px;
-height:  259px;
+height:  299px;
 position: absolute;
 top: 1371px;
 left: 24px;
@@ -1093,7 +1092,7 @@ border: 0.5px;
     width: 72px;
     border: none;
     position: relative;
-    left: 310px;
+    left: 280px;
     bottom: 7px;
 }
 
@@ -1102,18 +1101,18 @@ border: 0.5px;
     padding-top: 15px;
     position: relative;
     width: 180.42px;
-    height: 180.37px;
+    height: 185.37px;
     top: 44.52px;
-    right: 50px;
+    right: 53px;
     border-radius: 16px;
 }
 
 .orangeContainer{
     position: relative;
     width: 180.42px;
-    height: 180.37px;
+    height: 185.37px;
 bottom: 135.52px;
-left: 184.57px;
+left: 154.57px;
 border-radius: 16px;
 
 }
@@ -1121,25 +1120,25 @@ border-radius: 16px;
 .greenContainer{
     position: relative;
     width: 180.42px;
-    height: 180.37px;
+    height: 185.37px;
 bottom: 115.63px;
-right: 55px;
+right: 58px;
 border-radius: 16px;
 }
 
 .purpleContainer{
     position: relative;
     width: 180.42px;
-    height: 180.37px;
+    height: 185.37px;
 left: 184.57px;
 bottom: 295.52px;
 border-radius: 16px;
 }
 .ColorAssignmentH5{
     background-color: whitesmoke;
-    width: 500px;
+    width: 400px;
     position: relative;
-    right: 30px;
+    right: 10px;
     bottom: 35px;
     height:60px;
 }
@@ -1160,7 +1159,7 @@ left: 18px;
     background-color: whitesmoke;
     font-size: 14px;
     position: absolute;
-    left: 340px;
+    left: 320px;
 }
 
 .hrLine{
@@ -1200,7 +1199,7 @@ left: 18px;
     font-size: 14px;
     background-color: whitesmoke;
     position: relative;
-    left: 320px;
+    left: 300px;
 }
 
 .Attendance{
