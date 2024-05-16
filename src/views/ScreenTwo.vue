@@ -440,10 +440,10 @@ td{
  .table{
     text-align:left;
     position: relative;
-    width: 400px;
+    width: 380px;
     height: 362px;
     top: 57px;
-    left: 22px;
+    left: 15px;
     border: 1px;
 
   }
@@ -451,7 +451,7 @@ td{
   th, td{
     font-size: 13px;
     height: 43px;
-    width: 80px;
+    width: 70px;
     text-align: center;
 }
 
