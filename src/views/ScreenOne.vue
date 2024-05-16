@@ -954,7 +954,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 135px;
-    left: 50px;
+    right: 50px;
      }
 
      .OvertimeText{
@@ -965,7 +965,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 142px;
-    left:325px;
+    left:225px;
   }
 
   .line{
