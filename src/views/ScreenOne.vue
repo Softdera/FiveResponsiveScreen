@@ -1081,6 +1081,10 @@ border-radius: 5px;
 border: 0.5px;
 }
 
+.fs-2{
+        font-size: 13px;
+}
+
 .seeAllII{
     font-family: Open Sans;
     font-size: 14px;
@@ -1101,7 +1105,7 @@ border: 0.5px;
     padding-top: 15px;
     position: relative;
     width: 180.42px;
-    height: 185.37px;
+    height: 190.37px;
     top: 44.52px;
     right: 53px;
     border-radius: 16px;
@@ -1110,7 +1114,7 @@ border: 0.5px;
 .orangeContainer{
     position: relative;
     width: 180.42px;
-    height: 185.37px;
+    height: 190.37px;
 bottom: 135.52px;
 left: 154.57px;
 border-radius: 16px;
@@ -1120,7 +1124,7 @@ border-radius: 16px;
 .greenContainer{
     position: relative;
     width: 180.42px;
-    height: 185.37px;
+    height: 190.37px;
 bottom: 115.63px;
 right: 58px;
 border-radius: 16px;
@@ -1129,7 +1133,7 @@ border-radius: 16px;
 .purpleContainer{
     position: relative;
     width: 180.42px;
-    height: 185.37px;
+    height: 190.37px;
 left: 184.57px;
 bottom: 295.52px;
 border-radius: 16px;
@@ -1139,7 +1143,7 @@ border-radius: 16px;
     width: 400px;
     position: relative;
     right: 10px;
-    bottom: 35px;
+    bottom: 15px;
     height:60px;
 }
 
@@ -1159,7 +1163,7 @@ left: 18px;
     background-color: whitesmoke;
     font-size: 14px;
     position: absolute;
-    left: 320px;
+    left: 300px;
 }
 
 .hrLine{
@@ -1199,7 +1203,7 @@ left: 18px;
     font-size: 14px;
     background-color: whitesmoke;
     position: relative;
-    left: 300px;
+    left: 260px;
 }
 
 .Attendance{
