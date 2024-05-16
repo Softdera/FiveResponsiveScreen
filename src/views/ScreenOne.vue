@@ -964,7 +964,7 @@ td{
     font-weight: 400;
     line-height: 19.5px;
     text-align: left;
-    top: 148px;
+    top: 142px;
     left:425px;
   }
 
@@ -1061,6 +1061,11 @@ td{
 
 }
 
+.carryFlexAssignContainer{
+         width: 380px;
+   
+}
+
 .TutorContainer{
     width: 380px.52px;
 height: 405px;
@@ -1082,7 +1087,7 @@ border: 0.5px;
 }
 
 .fs-2{
-        font-size: 13px;
+        font-size: 12px;
 }
 
 .seeAllII{
@@ -1143,7 +1148,7 @@ border-radius: 16px;
     width: 400px;
     position: relative;
     right: 10px;
-    bottom: 15px;
+    bottom: 25px;
     height:60px;
 }
 
@@ -1218,7 +1223,7 @@ left: 18px;
 
 .tableTwoContainer{
     width: 380px;
-    height:  289px;
+    height:  319px;
     right: 18px;
     padding: 24px 16px 24px 16px;
     gap: 18px;
