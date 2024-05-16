@@ -1048,11 +1048,11 @@ td{
 }
 
 .AssignContainer{
-    width: 450px;
+    width: 430px;
     height:  340.53px;
     position: absolute;
     top: 580px;
-    left: 65px;
+    left: 25px;
     padding: 24px 37px 24px 16px;
     gap: 18px;
     border-radius: 5px;
@@ -1145,7 +1145,7 @@ border-radius: 16px;
 }
 .ColorAssignmentH5{
     background-color: whitesmoke;
-    width: 400px;
+    width: 380px;
     position: relative;
     right: 10px;
     bottom: 25px;
@@ -1154,7 +1154,7 @@ border-radius: 16px;
 
 .AssignmentH5{
     font-family: Inter;
-font-size: 14px;
+font-size: 12px;
 font-weight: 700;
 line-height: 15px;
 text-align: left;
@@ -1200,7 +1200,7 @@ left: 18px;
     text-align: left;
     color: #242F48;
     position: absolute;
-    left: 0.5px;
+    left: 5px;
 
 }
 
@@ -1212,7 +1212,7 @@ left: 18px;
 }
 
 .Attendance{
-    font-size: 14px;
+    font-size: 12px;
     font-family: Inter;
     font-weight: 600;
     line-height: 15px;
@@ -1237,7 +1237,7 @@ left: 18px;
 
 .colMonth{
     font-family: Inter;
-    line-height: 14px;
+    line-height: 10px;
     font-size: 11.5px;
     text-align: left;
     margin-bottom: 12px;
@@ -1246,7 +1246,7 @@ left: 18px;
 
 .tableTwoMonth{
     font-family: Inter;
-font-size: 10px;
+font-size: 14px;
 font-weight: 600;
 line-height: 15px;
 text-align: left;
