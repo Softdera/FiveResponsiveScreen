@@ -936,13 +936,13 @@ td{
 
     .whiteSide{
         position: relative;
-        right: 205px;
+        right: 230px;
         bottom: 180px;
-        width: 100%;
+        width: 90%;
     }
 
     .whiteSideContainer{
-                width: 100%;
+                width: 90%;
 
     }
 
@@ -954,8 +954,8 @@ td{
     font-weight: 700;
     line-height: 19.5px;
     text-align: left;
-    top: 125px;
-    left: 100px;
+    top: 135px;
+    left: 130px;
      }
 
      .OvertimeText{
@@ -965,8 +965,8 @@ td{
     font-weight: 400;
     line-height: 19.5px;
     text-align: left;
-    top: 135px;
-    left:452px;
+    top: 145px;
+    left:402px;
   }
 
   .line{
