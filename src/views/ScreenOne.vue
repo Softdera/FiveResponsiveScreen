@@ -955,7 +955,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 135px;
-    left: 130px;
+    left: 150px;
      }
 
      .OvertimeText{
@@ -966,7 +966,7 @@ td{
     line-height: 19.5px;
     text-align: left;
     top: 145px;
-    left:402px;
+    left:433px;
   }
 
   .line{
@@ -980,7 +980,7 @@ td{
     text-align: left;
     color: #242F48;
     position: absolute;
-    right: 445px;
+    right: 345px;
     top: 1px;
     z-index: 4;
   }
@@ -1007,7 +1007,7 @@ td{
 .horizontal-table {
     display: flex;
     flex-direction: column;
-    width:  481px;
+    width:  430px;
     height: 167px;
     text-align: left;
     background-color: #FFFFFF;
@@ -1049,7 +1049,7 @@ td{
 }
 
 .AssignContainer{
-    width: 481px;
+    width: 430px;
     height:  340.53px;
     position: absolute;
     top: 580px;
