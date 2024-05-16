@@ -1093,7 +1093,7 @@ border: 0.5px;
     width: 72px;
     border: none;
     position: relative;
-    left: 400px;
+    left: 310px;
     bottom: 7px;
 }
 
@@ -1120,7 +1120,7 @@ border-radius: 16px;
 
 .greenContainer{
     position: relative;
-    width: 200.42px;
+    width: 180.42px;
     height: 180.37px;
 bottom: 115.63px;
 right: 55px;
@@ -1129,7 +1129,7 @@ border-radius: 16px;
 
 .purpleContainer{
     position: relative;
-    width: 200.42px;
+    width: 180.42px;
     height: 180.37px;
 left: 184.57px;
 bottom: 295.52px;
@@ -1160,7 +1160,7 @@ left: 18px;
     background-color: whitesmoke;
     font-size: 14px;
     position: absolute;
-    left: 440px;
+    left: 340px;
 }
 
 .hrLine{
@@ -1200,7 +1200,7 @@ left: 18px;
     font-size: 14px;
     background-color: whitesmoke;
     position: relative;
-    left: 390px;
+    left: 320px;
 }
 
 .Attendance{
@@ -1214,8 +1214,8 @@ left: 18px;
 }
 
 .tableTwoContainer{
-    width: 400px;
-    height:  259px;
+    width: 380px;
+    height:  289px;
     right: 18px;
     padding: 24px 16px 24px 16px;
     gap: 18px;
