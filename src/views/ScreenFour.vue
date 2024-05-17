@@ -1021,19 +1021,17 @@ width: 120px;
 
 .AllIV{
     position: relative;
-    right: 10px;
-        width: 120px;
+    right: 5px;
 
 }
 
 .AllV{
-width: 120px;   
 }
 
 .sssrII{
     position: absolute;
     top: 170px;
-    width: 400px;
+    width: 100%;
     height: 32px;
     left: 10px;
     padding: 7px 7px 0px 7px;
@@ -1058,7 +1056,7 @@ width: 120px;
     position: relative;
     top: 230px;
     left: 90px;
-    width: 369px;
+    width: 100%;
 
 }
 
