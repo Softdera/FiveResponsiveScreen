@@ -602,7 +602,7 @@ export default {
     form{
     position: relative;
     top: 80px;
-    left: 230px;
+    left: 250px;
     width: 369px;
   }
 
@@ -679,7 +679,7 @@ export default {
 
 .uploadImages{
     opacity: 1;
-    width: 400px;
+    width: 369px;
     height: 100px;
     border-radius: 10px;
     border: 1px;
@@ -708,7 +708,7 @@ export default {
 
 
 .Send{
-    width:  400px;
+    width:  369px;
     height:  59px;
     position: relative;
     right: 260px;
