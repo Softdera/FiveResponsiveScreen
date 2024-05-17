@@ -934,7 +934,7 @@ export default {
     opacity: 1;
     display: block;
     position: absolute;
-    width: 369;
+    width: 369px;
     height: 46px;
     bottom: 780px;
     right: 1px;
