@@ -602,41 +602,41 @@ export default {
     form{
     position: relative;
     top: 80px;
-    left: 250px;
+    left: 275px;
     width: 369px;
   }
 
   .fa-angle-down{
     position: absolute;
-    left: 80px;
+    left: 70px;
     top: 110px;
     z-index: 1;
     font-size: 18px;
   }
  .I{
     position: absolute;
-    left: 80px;
+    left: 70px;
     top: 730px;
     z-index: 1;
     font-size: 18px;
  }
  .II{
     position: absolute;
-    left: 80px;
+    left: 70px;
     top: 415px;
     z-index: 1;
     font-size: 18px;
  }
  .III{
     position: absolute;
-    left: 80px;
+    left: 70px;
     top: 880px;
     z-index: 1;
     font-size: 18px;
  }
  .IV{
     position: absolute;
-    left: 80px;
+    left: 70px;
     top: 260px;
     z-index: 1;
     font-size: 18px;
@@ -644,7 +644,7 @@ export default {
 
  label{
     font-family: Open Sans;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 24px;
     text-align: left;
@@ -656,7 +656,7 @@ export default {
 
 .Upload{
     font-family: Open Sans;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 24px;
     text-align: left;
