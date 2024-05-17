@@ -722,8 +722,9 @@ background: #E2E8F0;
 
   .HalfCardContainerField{
     position: relative;
-    right: 125px;
+    right: 110px;
     width:150px;
+      border-radius: 8px;
 
   }
 
@@ -736,7 +737,7 @@ background: #E2E8F0;
   .HalfIICardContainerField{
     width:150px;
     position: relative;
-    right: 20px;
+    right: 5px;
   }
 
   .slash{
