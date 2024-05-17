@@ -1104,7 +1104,7 @@ width: 120px;
     position: relative;
     top: 3px;
     bottom: 0px;
-    right: 45px;
+    right: 50px;
 }
 
 .fullHr{
