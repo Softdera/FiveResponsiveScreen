@@ -623,14 +623,14 @@ height: 22px;
     width: 166px;
 height: 200px;
 top: 33px;
-left: 143px;
+left: 133px;
 border: 1px solid #DE4B18;
   }
 
   .ArseneTutor{
     position: relative;
     top: 203px;
-    left: 3px;
+    right: 20px;
 
   }
 
@@ -707,6 +707,8 @@ gap: 10px;
 border-radius: 8px;
 border: none;
 background: #E2E8F0;
+      position: relative;
+      left: 24px;
 
   }
 
@@ -722,7 +724,7 @@ background: #E2E8F0;
 
   .HalfCardContainerField{
     position: relative;
-    right: 110px;
+    right: 85px;
     width:150px;
       border-radius: 8px;
 
@@ -748,7 +750,7 @@ background: #E2E8F0;
   }
 
   .confirm{
-    width: 495px;
+    width: 369px;
 height: 65px;
 padding: 10px 20px 10px 20px;
 gap: 10px;
