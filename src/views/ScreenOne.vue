@@ -61,8 +61,16 @@
                 <div class="col whiteSide">
                     <div class="DashOver">
                         <h2><strong class="DashboardText">Dashboard/</strong> <span class="OvertimeText"> Overtime</span> </h2>
-
-                    </div>
+                          <div class="MobileNav">               
+                        <i class="fa-regular fa-bell mobileBell"></i>
+                        <span class="status-dot"></span>
+                        
+                        
+                        <i class="fa-solid fa-user"></i>
+                        <span class="status-dott"></span>
+                         <i class="fa-solid fa-angle-down MobileAngle"></i>
+                        </div>
+                                            </div>
                     <hr class="line">
                         <div class="whiteSideContainer text-center">
                             <div class="row roww">
@@ -919,6 +927,20 @@ td{
     position: absolute;
     bottom: 600px;
 }
+
+
+.mobileBell{
+    display: none;
+    opacity: 0;
+}
+.MobileAngle{
+    display: none;
+    opacity: 0;
+}
+
+.fa-user{
+    display: none;
+    opacity: 0;
    
 
 @media screen and (max-width: 600px) {
@@ -1252,6 +1274,71 @@ text-align: left;
 margin-bottom: 15px;
 }
 
+   
+.mobileBell{
+    font-size: 25px;
+    
+    opacity: 1;
+    display:contents;
+    z-index: 3;
+
+    position: absolute;
+    font-size: 23px;
+    bottom: 27.14px;
+    right: 400px;
+
+}
+
+
+.fa-user{
+    font-size: 25px;
+    position: absolute;
+    right: 400px;
+    opacity: 1;
+    bottom: 27.14px;
+    display:contents;
+    z-index: 3;
+}
+
+
+.MobileAngle{
+        z-index: 3;
+    position: absolute;
+    opacity: 1;
+    font-size: 10px;
+    right: 305px;
+    bottom: 22.14px;
+    display: contents;
+    font-size: 15px;
+
+
+}
+
+.status-dot{
+    width: 8px;
+  height: 8px;
+  background-color: #00ff00; 
+  border-radius: 50%;
+  margin-right: 5px;
+  position: absolute;
+  left: 38px;
+  bottom: 1px;
+
+}
+
+
+
+
+.status-dott{
+    width: 8px;
+  height: 8px;
+  background-color: #00ff00; 
+  border-radius: 50%;
+  margin-right: 5px;
+  position: absolute;
+  left: 10px;
+  top: 5px;
+}
 
 
 
