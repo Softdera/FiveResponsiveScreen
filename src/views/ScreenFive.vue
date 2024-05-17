@@ -611,7 +611,7 @@ z-index: 1;
     line-height: 21.94px;
     text-align: left;
     position: absolute;
-    top: 35px;
+    top: 45px;
     left: 100px;
     width: 174px;
 height: 22px;
@@ -623,7 +623,7 @@ height: 22px;
     width: 166px;
 height: 200px;
 top: 33px;
-left: 183px;
+left: 143px;
 border: 1px solid #DE4B18;
   }
 
@@ -650,7 +650,7 @@ left: 70px;
 
   }
   .Month{
-    width: 500px;
+    width: 369px;
 height: 51px;
 padding: 13px 20px 13px 20px;
 gap: 10px;
@@ -728,13 +728,13 @@ background: #E2E8F0;
   }
 
   .HalfICardContainerField{
-    width:230px;
+    width:150px;
     position: relative;
     left: 20px;
   }
 
   .HalfIICardContainerField{
-    width:230px;
+    width:160px;
     position: relative;
     right: 20px;
   }
