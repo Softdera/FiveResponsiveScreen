@@ -671,7 +671,7 @@ export default {
     border: 1px solid #CCCCCC;
     border-radius: 8px;
         position: relative;
-        right: 40px;
+        right: 280px;
 
   }
 
@@ -688,7 +688,7 @@ export default {
     background: #ECF0FA;
     border: 1px dotted #0162E8;
     position: relative;
-    right: 240px;
+    right: 280px;
     padding-top: 20px;
 }
 
@@ -713,7 +713,7 @@ export default {
     width:  369px;
     height:  59px;
     position: relative;
-    right: 240px;
+    right: 280px;
     top: 30px;
     bottom: 10px;
     color: #FFFFFF;
