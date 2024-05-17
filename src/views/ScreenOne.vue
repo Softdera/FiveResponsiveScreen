@@ -1314,6 +1314,10 @@ margin-bottom: 15px;
 
 
 }
+        .MobileNav{
+                position: absolute;
+                left: 100px;
+        }
 
 .status-dot{
     width: 8px;
