@@ -563,7 +563,7 @@ export default {
     line-height: 19.5px;
     text-align: left;
     position: absolute;
-    top: 35px;
+    top: 40px;
     left: 80px;
 
   }
