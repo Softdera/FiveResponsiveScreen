@@ -1022,6 +1022,12 @@ width: 120px;
 .AllIV{
     position: relative;
     right: 10px;
+        width: 120px;
+
+}
+
+.AllV{
+width: 120px;   
 }
 
 .sssrII{
@@ -1029,7 +1035,7 @@ width: 120px;
     top: 170px;
     width: 400px;
     height: 32px;
-    left: 18px;
+    left: 10px;
     padding: 7px 7px 0px 7px;
     justify-content: space-between;
     background: #186BADCC;
@@ -1106,7 +1112,7 @@ width: 120px;
  border: #898A8B 2px solid;
  position: relative;
  top: 220px;
- width: 480px;
+ width: 100%;
  left: 20px;
  opacity: 1;
 
