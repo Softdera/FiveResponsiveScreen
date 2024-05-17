@@ -351,8 +351,6 @@ export default {
         border: 1px solid #FFFFFF2B;
         color:#FFFFFF;
         top: 692px;
-
-
   }
 
   .Logout{
@@ -539,16 +537,11 @@ export default {
         width: 100%;
         height: 1414px;
         border-radius: 15px;
-
     }
-
-   
-
 
     .blueSide, .line{
    display: none;
   }
-
 
   .whiteSideContainer{
     position: absolute;
@@ -609,8 +602,8 @@ export default {
     form{
     position: relative;
     top: 80px;
-    left: 330px;
-    width: 400px;
+    left: 130px;
+    width: 369px;
   }
 
   .fa-angle-down{
