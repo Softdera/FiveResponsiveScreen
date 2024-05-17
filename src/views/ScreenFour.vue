@@ -1015,13 +1015,13 @@ export default {
 top: 220px;
 left: 18px;
 border: 2px solid #186BAD;
-width: 180px;
+width: 120px;
 
 }
 
 .AllIV{
     position: relative;
-    right: 20px;
+    right: 10px;
 }
 
 .sssrII{
@@ -1034,7 +1034,7 @@ width: 180px;
     justify-content: space-between;
     background: #186BADCC;
     color: white;
-    font-size: 14px;
+    font-size: 12px;
     font-family: Poppins;
     font-weight: 500;
     line-height: 18px;
