@@ -962,7 +962,7 @@ export default {
     height: 46px;
     position: absolute;
     bottom: 780px;
-    left: 3px;
+    right: 1px;
     z-index: 3;
     width: 89px;
     gap: 10px;
