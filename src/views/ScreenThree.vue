@@ -727,7 +727,7 @@ export default {
  .V{ opacity: 1;
     position: relative;
     color: #FFFFFF;
-    right: 100px;
+    right: 120px;
     font-size: 16px;
     bottom: 10px;
 }
