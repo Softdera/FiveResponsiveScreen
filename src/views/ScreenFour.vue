@@ -1066,10 +1066,10 @@ width: 120px;
     font-weight: bold;
     text-align: left;
     color: #186BAD;
-    position: relative;
-    top: 3px;
+    position: absolute;
+    top: 1px;
         z-index: 5;
-        left: 1px;
+        left: 10px;
 
 
 }
