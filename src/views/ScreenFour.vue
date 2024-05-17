@@ -934,10 +934,10 @@ export default {
     opacity: 1;
     display: block;
     position: absolute;
-    width: 400px;
+    width: 369;
     height: 46px;
     bottom: 780px;
-    right: 5px;
+    right: 1px;
     border: 1px solid #B0B0B0;
     z-index: 2;
     border-top-left-radius: 8px;
@@ -962,7 +962,7 @@ export default {
     height: 46px;
     position: absolute;
     bottom: 780px;
-    right: 10px;
+    right: 1px;
     z-index: 3;
     width: 89px;
     gap: 10px;
@@ -1115,39 +1115,7 @@ width: 120px;
  left: 10px;
  opacity: 1;
 
+}    
 }
 
-
-
-
-
-
-
-
-
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   </style>
