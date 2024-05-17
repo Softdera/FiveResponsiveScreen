@@ -602,7 +602,7 @@ export default {
     form{
     position: relative;
     top: 80px;
-    left: 130px;
+    left: 230px;
     width: 369px;
   }
 
@@ -666,7 +666,7 @@ export default {
 
 
  .input-field{
-    width:  100%;
+    width:  90%;
     height: 67px;
     border: 1px solid #CCCCCC;
     border-radius: 8px;
