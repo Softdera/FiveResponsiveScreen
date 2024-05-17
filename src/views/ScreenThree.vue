@@ -602,7 +602,7 @@ export default {
     form{
     position: relative;
     top: 80px;
-    left: 275px;
+    left: 295px;
     width: 369px;
   }
 
