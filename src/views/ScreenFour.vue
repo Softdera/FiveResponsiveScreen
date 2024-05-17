@@ -917,7 +917,7 @@ export default {
 
   .Report{
     position: absolute;
-    top: 35px;
+    top: 45px;
     left: 100px;
     font-family: Montserrat;
     font-size: 20px;
@@ -934,10 +934,10 @@ export default {
     opacity: 1;
     display: block;
     position: absolute;
-    width: 450px;
+    width: 400px;
     height: 46px;
     bottom: 780px;
-    right: 80px;
+    right: 50px;
     border: 1px solid #B0B0B0;
     z-index: 2;
     border-top-left-radius: 8px;
