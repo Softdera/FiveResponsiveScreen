@@ -962,7 +962,7 @@ export default {
     height: 46px;
     position: absolute;
     bottom: 780px;
-    right: 65px;
+    right: 40px;
     z-index: 3;
     width: 89px;
     gap: 10px;
@@ -974,7 +974,7 @@ export default {
 
 
   .innerContainer{
-    width: 100%;
+    width: 90%;
     position: absolute;
     left: 5px;
     top: 30px;
@@ -1027,7 +1027,7 @@ width: 180px;
 .sssrII{
     position: absolute;
     top: 170px;
-    width: 480px;
+    width: 400px;
     height: 32px;
     left: 18px;
     padding: 7px 7px 0px 7px;
