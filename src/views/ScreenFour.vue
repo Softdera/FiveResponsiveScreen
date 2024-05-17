@@ -1069,7 +1069,7 @@ width: 120px;
     position: absolute;
     top: 1px;
         z-index: 5;
-        left: 10px;
+        left: 50px;
 
 
 }
