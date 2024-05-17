@@ -666,7 +666,7 @@ export default {
 
 
  .input-field{
-    width:  90%;
+    width:  100%;
     height: 67px;
     border: 1px solid #CCCCCC;
     border-radius: 8px;
