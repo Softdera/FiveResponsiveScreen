@@ -937,7 +937,7 @@ export default {
     width: 400px;
     height: 46px;
     bottom: 780px;
-    right: 20px;
+    right: 5px;
     border: 1px solid #B0B0B0;
     z-index: 2;
     border-top-left-radius: 8px;
@@ -962,7 +962,7 @@ export default {
     height: 46px;
     position: absolute;
     bottom: 780px;
-    right: 40px;
+    right: 10px;
     z-index: 3;
     width: 89px;
     gap: 10px;
