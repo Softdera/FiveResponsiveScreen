@@ -630,7 +630,7 @@ border: 1px solid #DE4B18;
   .ArseneTutor{
     position: relative;
     top: 203px;
-    left: 33px;
+    left: 3px;
 
   }
 
@@ -661,7 +661,7 @@ left: 70px;
 
   .Methodcontainer, .MethodCol{
     display: block;
-    width: 100%; 
+    width: 90%; 
     margin-bottom: 10px; 
   }
 
@@ -700,7 +700,7 @@ margin-top: 20px;
   }
 
   .CardContainerField{
-  width:500px;
+  width:369px;
 height: 51px;
 padding: 13px 20px 13px 20px;
 gap: 10px;
@@ -723,7 +723,7 @@ background: #E2E8F0;
   .HalfCardContainerField{
     position: relative;
     right: 125px;
-    width:250px;
+    width:150px;
 
   }
 
@@ -734,7 +734,7 @@ background: #E2E8F0;
   }
 
   .HalfIICardContainerField{
-    width:160px;
+    width:150px;
     position: relative;
     right: 20px;
   }
