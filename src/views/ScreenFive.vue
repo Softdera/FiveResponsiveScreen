@@ -758,6 +758,8 @@ border-radius: 8px;
 margin-top: 40px;
 position: relative;
       left: 24px;
+          top: 0px;
+
 
   }
 
