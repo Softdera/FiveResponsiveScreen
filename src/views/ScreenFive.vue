@@ -612,7 +612,7 @@ z-index: 1;
     text-align: left;
     position: absolute;
     top: 45px;
-    left: 100px;
+    left: 30px;
     width: 174px;
 height: 22px;
   }
