@@ -1274,10 +1274,7 @@ text-align: left;
 margin-bottom: 15px;
 }
 
-.MobileNav{
-position: absolute;
-left: 120px;
-}
+
    
 .mobileBell{
     font-size: 25px;
