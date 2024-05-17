@@ -1276,7 +1276,7 @@ margin-bottom: 15px;
 
 .MobileNav{
 position: absolute;
-left: 100px;
+left: 120px;
 }
    
 .mobileBell{
