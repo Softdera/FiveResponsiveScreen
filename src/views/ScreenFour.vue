@@ -937,7 +937,7 @@ export default {
     width: 400px;
     height: 46px;
     bottom: 780px;
-    right: 50px;
+    right: 20px;
     border: 1px solid #B0B0B0;
     z-index: 2;
     border-top-left-radius: 8px;
@@ -996,7 +996,7 @@ export default {
     color: #969696;
     position: absolute;
     top: 90px;
-    width: 90%;
+    width: 369px;
 
 }
 
@@ -1008,7 +1008,7 @@ export default {
 }
 
 .AICLineII{
-    width: 100%;
+    width: 90%;
 }
 
 .AllIII{
@@ -1051,8 +1051,8 @@ width: 180px;
     opacity: 1;
     position: relative;
     top: 230px;
-    left: 120px;
-    width: 480px;
+    left: 90px;
+    width: 369px;
 
 }
 
