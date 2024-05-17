@@ -1022,7 +1022,6 @@ width: 120px;
 .AllIV{
     position: relative;
     right: 5px;
-
 }
 
 .AllV{
@@ -1031,7 +1030,7 @@ width: 120px;
 .sssrII{
     position: absolute;
     top: 170px;
-    width: 100%;
+    width: 392px;
     height: 32px;
     left: 10px;
     padding: 7px 7px 0px 7px;
@@ -1056,7 +1055,7 @@ width: 120px;
     position: relative;
     top: 230px;
     left: 90px;
-    width: 100%;
+    width: 392px;
 
 }
 
@@ -1088,7 +1087,7 @@ width: 120px;
     font-weight: 400;
     text-align: left;
     position: relative;
-    right: 50px;
+    right: 65px;
 }
 
 .com{
