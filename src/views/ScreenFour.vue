@@ -1030,7 +1030,7 @@ width: 120px;
 .sssrII{
     position: absolute;
     top: 170px;
-    width: 392px;
+    width:  100%;
     height: 32px;
     left: 10px;
     padding: 7px 7px 0px 7px;
@@ -1055,7 +1055,7 @@ width: 120px;
     position: relative;
     top: 230px;
     left: 90px;
-    width: 392px;
+    width: 100%;
 
 }
 
@@ -1067,7 +1067,7 @@ width: 120px;
     text-align: left;
     color: #186BAD;
     position: relative;
-    left: 30px;
+    left: 3px;
     top: 3px;
 
 }
@@ -1102,7 +1102,7 @@ width: 120px;
     position: relative;
     top: 3px;
     bottom: 0px;
-    right: 20px;
+    right: 40px;
 }
 
 .fullHr{
