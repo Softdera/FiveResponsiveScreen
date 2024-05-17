@@ -756,6 +756,8 @@ padding: 10px 20px 10px 20px;
 gap: 10px;
 border-radius: 8px;
 margin-top: 40px;
+position: relative;
+      left: 24px;
 
   }
 
