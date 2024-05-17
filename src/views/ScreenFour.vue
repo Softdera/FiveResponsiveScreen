@@ -1067,9 +1067,10 @@ width: 120px;
     text-align: left;
     color: #186BAD;
     position: relative;
-    right: 70px;
     top: 3px;
         z-index: 5;
+        left: 1px;
+
 
 }
 
