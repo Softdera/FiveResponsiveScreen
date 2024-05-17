@@ -937,7 +937,7 @@ export default {
     width: 369px;
     height: 46px;
     bottom: 780px;
-    right: 1px;
+    left: 4px;
     border: 1px solid #B0B0B0;
     z-index: 2;
     border-top-left-radius: 8px;
