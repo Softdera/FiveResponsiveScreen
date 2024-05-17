@@ -1067,7 +1067,7 @@ width: 120px;
     text-align: left;
     color: #186BAD;
     position: relative;
-    left: 3px;
+    right: 20px;
     top: 3px;
 
 }
@@ -1102,7 +1102,7 @@ width: 120px;
     position: relative;
     top: 3px;
     bottom: 0px;
-    right: 40px;
+    right: 45px;
 }
 
 .fullHr{
@@ -1110,7 +1110,7 @@ width: 120px;
  position: relative;
  top: 220px;
  width: 100%;
- left: 20px;
+ left: 10px;
  opacity: 1;
 
 }
