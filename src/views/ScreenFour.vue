@@ -1067,7 +1067,7 @@ width: 120px;
     text-align: left;
     color: #186BAD;
     position: relative;
-    right: 20px;
+    right: 50px;
     top: 3px;
 
 }
